@@ -1,0 +1,30 @@
+Collections
+    List
+        Ordered Data
+        Mutable
+        Index
+        []
+    Tuple
+        Ordered Collection
+        Immutable
+        ()
+    Set
+        Unordered Collection
+        Mutable with restrictions
+        {}
+    Dict
+        stores the pair of values(key,value)
+        Mutable
+        Ordered Collection
+        {}
+
+Control Statements
+-------------------
+Conditional Statements
+    Simple if
+    if else
+    else if
+    nested if
+Looping Statements
+    For Loop
+    While Loop
