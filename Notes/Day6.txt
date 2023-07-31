@@ -1,0 +1,25 @@
+Control Statements
+-------------------
+Conditional Statements
+    Simple if
+        if a>b:
+            print("Greater Value")
+    if else
+        if a>b:
+            print("Greater Value")
+        else:
+            print("Lesser Value")
+    else if --- Multiple if else conditions
+    nested if
+Looping Statements
+    For Loop
+    While Loop
+
+
+a=int(input("Enter the Value of a: "))
+b=int(input("Enter the Value of b: "))
+
+print(a+b)
+
+Functions
+-----------
