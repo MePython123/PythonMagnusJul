@@ -1,0 +1,18 @@
+Functional Programming or Standalone Programming
+
+Object Oriented Programming
+Every Program will be treated as a Real world Entity(Example)
+1) Class
+2) Object
+3) Inheritance
+4) Polymorphism
+5) Abstraction
+------------------
+Class
+---------------
+Blueprint or Model or Design of an application
+Variables and Functions --- Properties of an class
+
+Object
+----------
+Allocating a memory for the class properties
