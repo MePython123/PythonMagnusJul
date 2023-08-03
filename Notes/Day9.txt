@@ -1,0 +1,17 @@
+Multiple Classes in a Program
+
+Inheritance
+-------------
+1) Single Inheritance
+    From one class to another class
+    class A and Class B(A)
+2) Multiple Inheritance --- It works only in python
+    From multiple classes to single class
+3) Multi Level Inheritance
+    Class A
+    Class B(A)
+    Class C(B)
+4) Hierarchical Inheritance
+    from one class to multiple classes
+5) Hybrid Inheritance
+    Combination of any two inheritances
