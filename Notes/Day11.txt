@@ -1,0 +1,23 @@
+Abstraction
+--------------
+1) Hiding the data
+2) if atleast one abstract function is available in a class, the object can't be created
+
+Constructors
+-------------
+it a function which gets called at the time of object creation only
+
+XYZ
+----
+Savings
+Current
+Credit
+FD
+RD
+Funds
+Loans
+    HL
+    PL
+    CL
+    VL
+    ConL
