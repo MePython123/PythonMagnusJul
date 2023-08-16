@@ -1,0 +1,13 @@
+Exceptions
+-----------
+Error
+Unexpected Event that stops the normal flow -- Error
+
+till 8:15AM --- Compile Error --- Rule Error
+
+8:15 to 9:00 --- Unexpected --- Run Time Errors
+    Solve the Flat Tyre
+    Handle the Flat Tyre
+
+try
+except
