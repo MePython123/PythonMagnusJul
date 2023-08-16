@@ -1,0 +1,12 @@
+Userdefined Exception
+
+ZeroDivisionError
+NameError
+Indentation Error
+
+a/b --- if any error
+
+ex:
+age>=18 and percentage>=60
+
+a/b ---
