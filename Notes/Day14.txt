@@ -1,0 +1,19 @@
+Finally Block
+it gets executed irrespective of error
+
+Multi Threading
+    Multi Task
+
+    Thread CLass
+        run --- define the code --- initiates the thread property
+        start --- executes the run(thread) function
+
+File Handling
+---------------
+Storing
+    Python Memory
+        Variables,Functions, Objects
+    Files
+        .txt, .csv, .word
+    Database
+        Tabular
