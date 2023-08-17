@@ -1,0 +1,38 @@
+Database --- Storage Place --- Tabular
+Structured Format of Data --- SQL
+
+Banking
+
+Databases
+	Oracle
+	MySQL
+	MS Sql Server
+	DB2
+	PostgreSQL
+	Teradata
+
+MySQL Commands
+database --- create a database
+	create database database_name;
+	show databases;
+	use database_name;
+
+SQL
+----
+1) DDL --- Data Definition Language
+	create,rename,drop,alter,truncate
+	create --- sample -- id,name,location
+		create table table_name(col1 datatype(size),col2 datatype(size),....);
+		create table sample(id int,name varchar(20),location varchar(15));
+	rename ---- sample --- Test
+		rename table Sample to Test;
+	drop --- removing a table form the database
+		drop table demo;
+2) DML --- Data Manipulation Language
+	insert,update,delete
+3) DRL --- Data Retrieval language
+	select
+4) DCL ---- Admin --- Data Control Language
+	grant,revoke
+5) TCL --- Transaction Control Language
+	commit
