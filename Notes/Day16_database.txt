@@ -1,0 +1,31 @@
+1) DDL --- Data Definition Language
+	create,rename,drop,alter,truncate
+	alter --- modifying the existing table properties
+	table properties -- columns,data types and Sizes
+	    add
+	        alter table demo add deptno int;
+	    rename --- renaming a column
+	        alter table demo rename column sal to salary;
+	    drop
+	        alter table demo drop column ename;
+	    modify --- modification of column datatype or datasize
+	        alter table demo modify ename varchar(30);
+    Truncate
+        truncate table sample;
+2) DML --- Data Manipulation Language
+    Insert
+        insert into table_name values(col1_value,col2_value,....)
+        insert into demo values(101,1200,10,'abc');
+        insert into demo (empno,ename,salary,deptno) values(102,'bcd',2000,20);
+        insert into demo values(103,NULL,1100,10);
+        insert into demo (empno,ename,deptno) values(104,'def',30);
+    Update
+        update demo set ename='cde' where empno=103;
+    Delete
+        set autocommit=0;
+        delete from demo where empno=102;
+        delete from demo;
+3) DRL --- Data Retrieval Language
+    Select
+        select * from demo;
+        select empno,ename,sal from demo;
