@@ -1,0 +1,15 @@
+1) Create Table
+2) Insert Data
+3) Update Data
+4) Delete Data
+5) Alter table
+6) Select the Table Data
+
+class Table:
+    def create():
+        pass
+    def insert():
+        pass
+
+obj1 = Table()
+obj1.update()
