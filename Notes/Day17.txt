@@ -1,0 +1,2 @@
+1) Install the Mysql Connector
+pip install mysql-connector-python
