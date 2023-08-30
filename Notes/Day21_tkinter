@@ -1,0 +1,19 @@
+Tkinter --- GUI Framework
+
+Widgets
+    Button
+    Label
+    Entry
+    Frame
+    ListBox
+    Menu
+    CheckBox
+    RadioButton
+    ScrollBar
+    Text
+    MessageBox
+
+Geometry
+    pack() --- left,right,center,top and bottom
+    grid() --- rows and columns
+    place() --- x and y coordinates
