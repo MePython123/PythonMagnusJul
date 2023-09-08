@@ -1,6 +1,6 @@
 from mysql import connector
 myDbConnection = connector.connect(host='localhost',user='root',password='root',
-                                   database='PythonMagnusJul')
+                                   database='Pythonmagnus')
 c1 = myDbConnection.cursor()
 # cursor is a pointer which locates processing area/Temporary Memory area.
 #c1.execute("drop table if exists emp")

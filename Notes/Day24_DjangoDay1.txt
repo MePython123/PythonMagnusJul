@@ -1,0 +1,28 @@
+Web Programming Frameworks
+------------------------------------
+Web Page
+	Static Web Pages ---- HTML
+		Wikipedia
+	Dynamic Web Pages --- HTML along with Server Based Application
+		Banking
+		Facebook
+		Twitter
+
+HTML --- Hyper Text Markup Language
+CSS ---- Cascading Style Sheets
+
+Python
+	Django --- Dynamic with ORM(Object Relational Mapper)
+	Flask
+Java
+	Servelets
+	JSP
+	Spring
+	JPA
+
+-------------------------
+Formatting
+
+Table
+List
+Forms
