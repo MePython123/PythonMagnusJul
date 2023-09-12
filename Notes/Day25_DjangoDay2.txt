@@ -1,0 +1,13 @@
+css
+-----
+1) Inline CSS
+2) Internal CSS
+3) External CSS
+
+
+Syntax
+selector
+    body,h1,p,table
+declaration
+    color:green
+    property:value
