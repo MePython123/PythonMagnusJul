@@ -1,0 +1,9 @@
+Django
+------
+1) ORM Application
+    Object Relational Mapper
+2) MVT Framework
+    Model--- Database
+    View--- It makes communication between webpage and python
+        Main logical functionality
+    Template--- Webpage-- HTML
